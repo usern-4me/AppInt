@@ -1,0 +1,25 @@
+main{
+    background: blueviolet;
+    display: grid;
+    grid-template-columns: repeat(3, lfr);
+    grid-auto-rows: 100px 100px 100px;
+    grid-gap: 20px;
+    padding: 20px;
+    grid-template-areas: "G     .       R"
+                         "G     B       R"
+                         "G     .       R"
+                        
+}
+
+.R{
+    background: red;
+    grid-area: R;
+}
+.G{
+    background: green;
+    grid-area: G;
+}
+.B{
+    background: blue;
+    grid-area: B;
+}
