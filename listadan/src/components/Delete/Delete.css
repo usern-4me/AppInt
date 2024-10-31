@@ -1,0 +1,10 @@
+.Delete {
+    background-color: rgb(0, 173, 181);
+    border: none;
+}
+
+.Delete-text {
+    font-size: 24px;
+    color: white;
+    background-color: rgb(0, 173, 181);
+}

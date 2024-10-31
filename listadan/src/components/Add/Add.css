@@ -1,0 +1,36 @@
+.inputField {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputContent {
+    width: 300px;
+    height: 100px;
+    resize: none;
+    border-radius: 5px;
+    border: 2px solid #ccc; 
+    padding: 5px;
+    margin: 5px 0;
+}
+
+.inputTitle {
+    width: 300px;
+    height: 20px;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid #ccc;
+}
+
+.inputButton {
+    width: 300px;
+    margin: 15px;
+    padding: 10px 0;
+    font-size: 24px;
+    font-weight: 600;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(49, 54, 63);
+}

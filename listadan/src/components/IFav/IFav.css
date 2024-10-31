@@ -1,0 +1,9 @@
+.IsFav {
+    background-color: rgb(0, 173, 181);
+    border: none;
+}
+
+.IsFav-text {
+    font-size: 24px;
+    background-color: rgb(0, 173, 181);
+}
